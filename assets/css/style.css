@@ -1,0 +1,17 @@
+header{
+    background-color: salmon;
+}
+
+li{
+    display: inline;
+}
+
+section{
+    width: 200px;
+    height: 200px;
+    background-color: sienna;
+}
+
+#image{
+    
+}
